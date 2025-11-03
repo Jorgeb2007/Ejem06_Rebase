@@ -5,3 +5,8 @@ Primera Modificación
 Segunda Modificación
 tercera modificacion
 >>>>>>> b0e9a71 (Tercera modificación en local)
+<<<<<<< HEAD
+=======
+cuarta modificación
+quinta modificación
+>>>>>>> 5f7fa16 (Quinta Modificación)
